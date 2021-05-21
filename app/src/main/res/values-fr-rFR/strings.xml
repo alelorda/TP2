@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TP2</string>
+    <string name="btnRestar">SOUSTRAIRE</string>
+    <string name="btnSumar">AJOUTER</string>
+    <string name="btnOcultar">CACHER</string>
+    <string name="btnReset">REDÉMARRER</string>
+    <string name="btnPrimera">Contador</string>
+    <string name="txvContador">Comptable</string>
+    <string name="btnConvertir">"Changer en "</string>
+    <string name="btnReiniciar2">Redémarrer</string>
+    <string name="rBtnBrasil">REAL (BRÉSIL)</string>
+    <string name="tVwConversor">Convertisseur de devises</string>
+    <string name="eTnIngresoDinero">Entrez le montant en pesos</string>
+    <string name="tVwSeleccionarMoneda">Sélectionnez une devise</string>
+    <string name="eTResultado">Résultat</string>
+    <string name="btnSegunda">Convertisseur</string>
+</resources>

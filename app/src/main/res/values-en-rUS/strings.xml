@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TP2</string>
+    <string name="btnSumar">ADD</string>
+    <string name="btnRestar">SUBTRACT</string>
+    <string name="btnOcultar">HIDE</string>
+    <string name="btnReset">RESET</string>
+    <string name="txvContador">Accountant</string>
+    <string name="btnPrimera">Contador</string>
+    <string name="btnConvertir">"Turn into "</string>
+    <string name="btnReiniciar2">Restart</string>
+    <string name="rBtnBrasil">REAL (BRAZIL)</string>
+    <string name="tVwConversor">Currency Converter</string>
+    <string name="eTnIngresoDinero">Enter Amount in Pesos</string>
+    <string name="tVwSeleccionarMoneda">Select a Currency</string>
+    <string name="eTResultado">Outcome</string>
+    <string name="btnSegunda">Converter</string>
+</resources>

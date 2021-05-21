@@ -1,0 +1,21 @@
+<resources>
+    <string name="btnPrimera">Contador</string>
+    <string name="btnSegunda">Convertidor</string>
+    <string name="app_name">TP2</string>
+    <string name="btnSumar">SUMAR</string>
+    <string name="btnRestar">RESTAR</string>
+    <string name="btnZoomMas" translatable="false">ZOOM +</string>
+    <string name="btnZoomMenos" translatable="false">ZOOM -</string>
+    <string name="btnOcultar">OCULTAR</string>
+    <string name="btnReset">RESET</string>
+    <string name="txvContador">Contador</string>
+    <string name="btnConvertir">Convertir</string>
+    <string name="btnReiniciar2">Reiniciar</string>
+    <string name="rBttnDolar" translatable="false">DOLAR (USA)</string>
+    <string name="rBtnEuro" translatable="false">EURO</string>
+    <string name="rBtnBrasil">REAL (BRASIL)</string>
+    <string name="tVwConversor">Conversor Monedas</string>
+    <string name="eTnIngresoDinero">Ingrese Monto en Pesos</string>
+    <string name="tVwSeleccionarMoneda">Seleccione una Moneda</string>
+    <string name="eTResultado">Resultado</string>
+</resources>
