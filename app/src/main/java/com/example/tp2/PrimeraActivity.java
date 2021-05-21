@@ -97,7 +97,12 @@ public class PrimeraActivity extends AppCompatActivity {
     }
 
     private void ocultar(){
-        txvContador.setVisibility(View.GONE);
+        if(txvContador.getVisibility() == View.VISIBLE){
+            txvContador.setVisibility(View.GONE);
+        }else{
+            txvContador.setVisibility(View.VISIBLE);
+        }
+        //txvContador.setVisibility(View.GONE);
     }
 
     private void reset(){
